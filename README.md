@@ -1,2 +1,2 @@
 # The-Alarm-Clock
-The Project is on Alarm clock For one to Schedule the time frame
+The Project is On Alarm Clock, Help youeself to Schedule work effectively. 
